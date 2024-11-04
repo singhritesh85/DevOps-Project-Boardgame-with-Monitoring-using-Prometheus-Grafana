@@ -1,5 +1,5 @@
 # Monitoring-using-Prometheus-Grafana
-![image](https://github.com/user-attachments/assets/7b7f4586-e968-42fd-88a3-58a0eb62498b)
+![image](https://github.com/user-attachments/assets/9cd25b48-dfbc-4a58-a035-a2e75da93f57)
 
 This DevOps project aims to create the infrastructure for the project, establish the end-to-end CI/CD setup and its monitoring using Prometheus and Grafana (Prometheus and Grafana used as Monitoring Tool in this project). Jenkins was used as CI/CD Tool. For Code Quality check SonarQube, to keep the Artifacts Nexus and Maven was used as a Build Tool. Trivy was used as a Security Scanning tool, Docker Image was stored in ECR (Elastic Container Registry) and for deployment ArgoCD had been used. The high-level architecture diagram for the project is as shown above.
 
